@@ -49,6 +49,11 @@ First query is simple and will run without any issues.
 The second query is protected with authorization if you navigate to `SampleResolver.ts`. To pass the authorization check, go to `index.ts` and pass user object in context instead of null.
 
 
+For more information on bun: 
+https://bun.sh/docs
+
+--
+
 For more information on apollo server: 
 https://github.com/apollographql/apollo-server
 
